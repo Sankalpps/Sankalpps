@@ -8,6 +8,9 @@
   <a href="https://github.com/Sankalpps">
     <img src="https://komarev.com/ghpvc/?username=Sankalpps&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
+  <a href="https://drive.google.com/file/d/1yfYHQoRJs8VKunP_ZQTKD8BoUYomZyB5/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
   <a href="https://github.com/Sankalpps?tab=followers">
     <img src="https://img.shields.io/github/followers/Sankalpps?label=Followers&style=for-the-badge&color=236ad3" alt="Followers"/>
   </a>
@@ -262,10 +265,6 @@ Have an interesting idea?
 <a href="https://github.com/Sankalpps">
 <img src="https://img.shields.io/badge/GitHub-Sankalpps-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://drive.google.com/file/d/1yfYHQoRJs8VKunP_ZQTKD8BoUYomZyB5/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
   
 <a href="https://www.linkedin.com/in/sankalp-ps-423bab318/">
 <img src="https://img.shields.io/badge/LinkedIn-Sankalp%20P%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
