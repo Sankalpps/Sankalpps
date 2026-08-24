@@ -263,6 +263,10 @@ Have an interesting idea?
 <img src="https://img.shields.io/badge/GitHub-Sankalpps-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1yfYHQoRJs8VKunP_ZQTKD8BoUYomZyB5/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  
 <a href="https://www.linkedin.com/in/sankalp-ps-423bab318/">
 <img src="https://img.shields.io/badge/LinkedIn-Sankalp%20P%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
