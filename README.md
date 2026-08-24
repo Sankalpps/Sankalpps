@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML-focused Computer Science Engineering student with hands-on experience building full-stack, production-style applications across real-time systems, machine leaming, and data visualization. Proficient in Python, Java, C++, and JavaScript/TypeScript with a strong grounding in data structures, algorithms, and cybersecurity fundamentals. Completed two AICTE-recognized internships in deep learning and applied AI, delivered multiple end-to-end projects, and actively compete in hackathons and coding contests. Fluent in English, Kannada, and Hindi. . AI/ML-focused Computer Science Engineering student with a proven track record of building production-style, end-to-end applications. Successfully completed two AICTE-recognized intemships and contributed to 5+ active open-source projects.<br>
+Computer Science Engineering (AI & ML) student and collaborative developer with a track record of building production-style applications. Adaptable team player experienced in fast-paced hackathons, open-source contribution, and industry internships. Skilled in Python, Java, C++, and JavaScript/TypeScript, with strong problem-solving and multilingual communication skills.<br>
 
 
 ## 🌐 Socials:
