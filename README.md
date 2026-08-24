@@ -1,40 +1,214 @@
-<h1 align="center">Hi 👋, I'm Sankalp P S</h1>
-<h3 align="center">collaborative developer with a track record of building production-style applications. Adaptable team player experienced in fast-paced hackathons</h3>
+# 👋 Hi, I'm Nikshep D
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpps&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpps" /> </p>
+### 🎓 CS (AIML) Student @ NIE Mysore | 💻 Java & Spring Boot | 🤖 AI/ML | 🚀 Building Impactful Projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalpps" alt="sankalpps" /></a> </p>
-
-- 🔭 I’m currently working on [Carbon_foot_print](https://github.com/Sankalpps/Carbon_foot_print)
-
-- 🌱 I’m currently learning **Data Structures in c++ and Full MERN Stack**
-
-- 👯 I’m looking to collaborate on [SmartBharat](https://github.com/Sankalpps/SmartBharat)
-
-- 🤝 I’m looking for help with [SmartBharat](https://github.com/Sankalpps/SmartBharat)
-
-- 📝 I regularly write articles on [Controlling Distractions](Controlling Distractions)
-
-- 💬 Ask me about **Python,C++**
-
-- 📫 How to reach me **sankalpps2020@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yfYHQoRJs8VKunP_ZQTKD8BoUYomZyB5/view?usp=sharing](https://drive.google.com/file/d/1yfYHQoRJs8VKunP_ZQTKD8BoUYomZyB5/view?usp=sharing)
-
-- ⚡ Fun fact **I stay Happy in whatever I do**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sankalp-ps-423bab318?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sankalp-ps-423bab318?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sankalp_usha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sankalp_usha/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/v3wyp542hu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/v3wyp542hu/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nikshep-root&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/nikshep-root">
+    <img src="https://img.shields.io/github/followers/nikshep-root?label=Followers&style=for-the-badge&color=blue" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpps&show_icons=true&locale=en&layout=compact" alt="sankalpps" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpps&show_icons=true&locale=en" alt="sankalpps" /></p>
+```java
+public class Developer {
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpps&" alt="sankalpps" /></p>
+    String name = "Nikshep D";
+    String role = "Computer Science & Engineering Student";
+    String university = "The National Institute of Engineering, Mysore";
+
+    String[] currentlyLearning = {
+        "Data Structures & Algorithms",
+        "Java",
+        "Spring Boot",
+        "Machine Learning"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Problem Solving",
+        "AI / ML",
+        "Open Source"
+    };
+
+    String goal = "Build useful software and continuously improve.";
+
+    void code() {
+        System.out.println("Code. Learn. Build. Repeat. 🚀");
+    }
+}
+```
+
+### 💡 What I'm Currently Doing
+
+* 🌱 Learning **Data Structures & Algorithms with Java**
+* ☕ Building backend applications using **Spring Boot**
+* 🤖 Exploring **Machine Learning with Python**
+* 🛠️ Working on practical software projects
+* 🤝 Looking to collaborate on **student projects, hackathons & open source**
+* 💬 Ask me about **Java, DSA, Spring Boot, Python and beginner AI/ML**
+
+---
+
+# 🧠 Technical Skills
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Focus:** Python • Machine Learning Fundamentals • Data Analysis
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,githubactions" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 🇮🇳 SmartBharat
+
+A web platform focused on **smart-city services and citizen engagement**.
+
+**Tech:** HTML • CSS • JavaScript • Node.js
+
+[🔗 View Project](https://github.com/Sankalpps/SmartBharat)
+
+---
+
+### 🧩 More Projects
+
+I regularly build projects to strengthen my skills in:
+
+`Java` `DSA` `Spring Boot` `Python` `AI/ML` `Web Development`
+
+➡️ **[Explore all my repositories →](https://github.com/nikshep-root?tab=repositories)**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nikshep-root&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshep-root&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikshep-root&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikshep-root&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikshep-root&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 🧩 My Development Journey
+
+```text
+Programming
+     │
+     ▼
+Data Structures & Algorithms
+     │
+     ▼
+Backend Development
+     │
+     ├── Java
+     └── Spring Boot
+     │
+     ▼
+Databases & APIs
+     │
+     ▼
+AI / Machine Learning
+     │
+     ▼
+Real-World Projects 🚀
+```
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Strengthen **DSA & problem solving**
+* 🚀 Become confident with **Spring Boot**
+* 🤖 Build practical **AI/ML projects**
+* 🌎 Contribute to **open source**
+* 🧑‍💻 Secure a strong **software engineering internship**
+* 📚 Keep learning and building consistently
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/nikshep-root">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikshepd01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Developer Philosophy
+
+> **"Code. Learn. Build. Repeat."**
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
